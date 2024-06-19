@@ -1,0 +1,27 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    padding: 30px;
+    margin: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.box1 {
+    width: 25%;
+    height: 25%;
+    background-color: rgb(120, 120, 156);
+}
+.box2 {
+
+    width: 25%;
+    height: 25%;
+    background-color: rgb(38, 38, 169);
+}
+.box3 {
+
+    width: 25%;
+    height: 25%;
+    background-color: rgb(99, 99, 237);
+}
